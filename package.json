@@ -1,0 +1,10 @@
+{
+  "name": "wutube",
+  "version": "1.0.0",
+  "description": "Cloning Yutube with VanillaJS and NodeJS",
+  "main": "index.js",
+  "author": "Jun",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
